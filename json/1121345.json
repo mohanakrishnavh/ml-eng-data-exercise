@@ -1,0 +1,20 @@
+{
+  "account_id" : 1121345,
+  "event_date": "2018-07-09",
+  "account_standing": "G",
+  "account_information":
+    {
+      "first_name": "John",
+      "last_name": "Doe",
+      "date_of_birth": "1986-08-18",
+      "address":
+        {
+          "street_number": "123",
+          "street_name": "Main Street",
+          "city": "Centerville",
+          "state": "CA",
+          "zip_code": "91111"
+        },
+    "email_address": "john_doe@gmail.com"
+    }
+}
